@@ -1,0 +1,701 @@
+{
+    "Investments": [
+    {
+        "question": "When it comes to investments, what does the term 'diversification' refer to?",
+        "options": [
+            "Investing in a single type of asset to maximize returns.",
+            "Spreading investments across different asset classes to reduce risk.",
+            "Focusing solely on high-risk investments for quick gains.",
+            "Investing exclusively in stocks of a single company for long-term growth."
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the main purpose of diversification in investments?",
+        "options": [
+            "Maximizing returns by concentrating investments in one asset.",
+            "Minimizing risk by spreading investments across different assets.",
+            "Focusing on high-risk investments for quick gains.",
+            "Investing exclusively in stocks of a single company for long-term growth."
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "Which investment strategy aims to reduce risk by investing in a variety of asset types?",
+        "options": [
+            "Concentration strategy",
+            "High-risk strategy",
+            "Diversification strategy",
+            "Speculative strategy"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What does a diversified investment portfolio typically include?",
+        "options": [
+            "Only stocks of a single company.",
+            "A mix of assets from the same category.",
+            "Investments from a single industry.",
+            "A range of different asset classes."
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the purpose of an emergency fund?",
+        "options": [
+            "To invest in high-risk assets",
+            "To cover unexpected expenses",
+            "To maximize short-term gains",
+            "To buy luxury items"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the term for the price at which an investor can sell an asset?",
+        "options": [
+            "Buy price",
+            "Market price",
+            "Selling price",
+            "Bid price"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the bull market?",
+        "options": [
+            "A market with decreasing prices",
+            "A market with stagnant prices",
+            "A market with increasing prices",
+            "A market with no trading activity"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "Which investment account offers tax advantages for retirement savings in the United States?",
+        "options": [
+            "Savings account",
+            "Checking account",
+            "401(k) account",
+            "Regular brokerage account"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What does the term compounding refer to in investing?",
+        "options": [
+            "Spending money on luxury items",
+            "Earning a fixed interest rate",
+            "Calculating potential returns",
+            "Earning interest on both the initial investment and its accumulated earnings"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the primary goal of portfolio diversification?",
+        "options": [
+            "Maximizing short-term gains",
+            "Eliminating all risk",
+            "Minimizing risk by spreading investments",
+            "Investing in a single high-return asset"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is the term for the measure of how much an investment's return deviates from its average return over a certain period?",
+        "options": [
+            "Inflation rate",
+            "Standard deviation",
+            "Risk-free rate",
+            "Compound interest rate"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the process of determining the current value of a future sum of money or stream of cash flows?",
+        "options": [
+            "Amortization",
+            "Depreciation",
+            "Valuation",
+            "Discounting"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+        "options": [
+            "Income statement",
+            "Cash flow statement",
+            "Balance sheet",
+            "Statement of retained earnings"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is the term for the cost of borrowing money or the return on invested capital?",
+        "options": [
+            "Yield",
+            "Dividend",
+            "Interest rate",
+            "Equity ratio"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What investment strategy involves buying and holding a diverse mix of investments over the long term?",
+        "options": [
+            "Day trading",
+            "Speculation",
+            "Market timing",
+            "Buy-and-hold"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "Which type of investment fund is known for its passively managed approach, aiming to replicate the performance of a specific market index?",
+        "options": [
+            "Hedge fund",
+            "Mutual fund",
+            "Exchange-traded fund (ETF)",
+            "Venture capital fund"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What does the acronym IPO stand for in the context of finance?",
+        "options": [
+            "Initial Public Offering",
+            "Investment Portfolio Organization",
+            "International Purchase Order",
+            "Investment Planning Outline"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Which financial metric is calculated by dividing a company's net income by its total number of outstanding shares?",
+        "options": [
+            "Earnings Before Interest and Taxes (EBIT)",
+            "Price-to-Earnings (P/E) ratio",
+            "Debt-to-Equity ratio",
+            "Dividend Yield"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the process of spreading investments across different types of assets to reduce risk called?",
+        "options": [
+            "Market timing",
+            "Concentration",
+            "Diversification",
+            "Speculation"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What type of risk is associated with changes in government regulations, tax policies, or geopolitical events?",
+        "options": [
+            "Market risk",
+            "Credit risk",
+            "Political risk",
+            "Liquidity risk"
+        ],
+        "correct_option": 2
+    }
+],
+
+   "Loans and Debt": [
+    {
+        "question": "What is the key difference between secured and unsecured loans?",
+        "options": [
+            "Secured loans require a higher credit score than unsecured loans.",
+            "Secured loans involve collateral, while unsecured loans do not.",
+            "Secured loans have lower interest rates compared to unsecured loans.",
+            "Unsecured loans are only available to individuals with stable income."
+        ],
+        "correct_option": 1
+    },
+           {
+        "question": "What is the recommended debt-to-income ratio for most individuals?",
+        "options": [
+            "10%",
+            "25%",
+            "50%",
+            "30%"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the 'snowball method' for paying off debt?",
+        "options": [
+            "Paying the largest debt first",
+            "Paying the smallest debt first",
+            "Paying debts randomly",
+            "Consolidating all debts into one loan"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "How can a debt consolidation loan help manage multiple debts?",
+        "options": [
+            "It reduces the total amount of debt owed",
+            "It eliminates the need to make any payments",
+            "It combines multiple debts into a single, lower-interest loan",
+            "It increases your credit score immediately"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What sets secured loans apart from unsecured loans?",
+        "options": [
+            "Secured loans have higher interest rates than unsecured loans.",
+            "Unsecured loans require a co-signer, while secured loans do not.",
+            "Secured loans involve collateral, while unsecured loans do not.",
+            "Unsecured loans are only available for small amounts."
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "Which type of loan is backed by collateral, such as an asset?",
+        "options": [
+            "Unsecured loan",
+            "Payday loan",
+            "Secured loan",
+            "Personal loan"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What factor determines whether a loan is secured or unsecured?",
+        "options": [
+            "The loan amount",
+            "The lender's location",
+            "The borrower's credit score",
+            "The presence of collateral"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is a grace period on a credit card?",
+        "options": [
+            "The time during which interest is not charged on new purchases.",
+            "The deadline for making a credit card payment.",
+            "The maximum amount you can spend on a credit card.",
+            "The interest rate charged on overdue balances."
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "What is the purpose of a FICO credit score?",
+        "options": [
+            "To determine your annual income",
+            "To evaluate your spending habits",
+            "To assess your potential for investment",
+            "To gauge your creditworthiness"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the term for the process of systematically repaying a debt over a specific period?",
+        "options": [
+            "Refinancing",
+            "Foreclosure",
+            "Amortization",
+            "Bankruptcy"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "Which of the following is considered a fixed expense in a budget?",
+        "options": [
+            "Groceries",
+            "Entertainment",
+            "Dining out",
+            "Rent or mortgage payment"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What does the term 'compound interest' mean?",
+        "options": [
+            "Interest that is charged on overdue debt",
+            "Interest that is only calculated annually",
+            "Interest that is paid upfront on a loan",
+            "Interest that is calculated on both the initial amount and the accumulated interest"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the purpose of a will?",
+        "options": [
+            "To distribute your assets after death",
+            "To transfer ownership of a property",
+            "To pay off outstanding debts",
+            "To establish a retirement plan"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Which type of investment account is specifically designed to help individuals save for retirement?",
+        "options": [
+            "Money market account",
+            "Savings account",
+            "Brokerage account",
+            "Individual Retirement Account (IRA)"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the primary advantage of a Roth IRA compared to a Traditional IRA?",
+        "options": [
+            "Roth IRA contributions are tax-deductible",
+            "Roth IRA withdrawals are tax-free in retirement",
+            "Roth IRA has higher contribution limits",
+            "Roth IRA requires mandatory withdrawals at a certain age"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the purpose of a budget?",
+        "options": [
+            "To maximize spending on non-essential items",
+            "To keep track of historical expenses",
+            "To set financial goals and manage income and expenses",
+            "To invest in high-risk assets"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is a co-pay in the context of health insurance?",
+        "options": [
+            "The total amount you pay for health services",
+            "The percentage of medical costs covered by insurance",
+            "The fixed amount you pay for a specific medical service",
+            "The fee for applying for health coverage"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is the term for a sudden and unexpected event that requires a significant amount of money?",
+        "options": [
+            "Windfall",
+            "Liability",
+            "Asset",
+            "Financial emergency"
+        ],
+        "correct_option": 3
+    }
+],
+    "Interest": [
+    {
+        "question": "Which of the following best describes the concept of simple interest?",
+        "options": [
+            "Interest calculated on the initial amount only.",
+            "Interest calculated on the initial amount and any previously earned interest.",
+            "Interest that varies based on economic conditions.",
+            "Interest charged on loans but not earned on investments."
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "What is the primary characteristic of simple interest?",
+        "options": [
+            "Interest calculated on the initial amount alone.",
+            "Interest calculated on the initial amount and previously earned interest.",
+            "Interest that fluctuates with market conditions.",
+            "Interest applied to loans but not to investments."
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "How is simple interest calculated?",
+        "options": [
+            "Based on the initial amount only.",
+            "Based on the initial amount and any accrued interest.",
+            "Based on economic indicators.",
+            "Based on the borrower's credit score."
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "What does simple interest primarily consider when calculating interest?",
+        "options": [
+            "The time period of the investment.",
+            "The fluctuations in market interest rates.",
+            "The borrower's credit history.",
+            "The initial principal amount."
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "If you deposit $5000 in a savings account with a 4% annual interest rate, compounded annually, how much will you have after 5 years?",
+        "options": [
+            "$6000",
+            "$6250",
+            "$5200",
+            "$7400"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the primary difference between compound interest and simple interest?",
+        "options": [
+            "Compound interest is used for short-term loans, while simple interest is used for long-term loans.",
+            "Compound interest includes interest on the interest earned, while simple interest does not.",
+            "Compound interest is calculated on the initial principal only, while simple interest is calculated on the total amount.",
+            "Compound interest is always higher than simple interest."
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the relationship between the interest rate and the time period in compound interest calculations?",
+        "options": [
+            "Directly proportional",
+            "Inversely proportional",
+            "No relationship",
+            "Linear relationship"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "If the compound interest on an investment of $2000 for 2 years at a certain annual rate is $360, what is the annual interest rate?",
+        "options": [
+            "8%",
+            "10%",
+            "12%",
+            "15%"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "An investment earns 8% compound interest annually. If $1000 is invested, how much will be in the account after 4 years?",
+        "options": [
+            "Approximately $1153",
+            "Approximately $1320",
+            "Approximately $1360",
+            "Approximately $1450"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the formula to calculate the simple interest earned on a loan or investment?",
+        "options": [
+            "P × r × t",
+            "P × (1 + r)^t",
+            "P × (1 + t)^r",
+            "P × r × t / 100"
+        ],
+        "correct_option": 3
+    }
+],
+    "Banking Fees": [
+        {
+            "question": "What are banking fees?",
+            "options": [
+                "Cash rewards provided by banks for opening an account.",
+                "Fees charged by banks for various services and transactions.",
+                "Fixed interest rates on savings accounts.",
+                "Bonus payments given to bank employees."
+            ],
+            "correct_option": 1
+        },
+        {
+            "question": "How would you define banking fees?",
+            "options": [
+                "Monetary incentives given by banks to account holders.",
+                "Charges applied by banks for different services and transactions.",
+                "Interest rates earned on loans from banks.",
+                "Salary received by bank executives."
+            ],
+            "correct_option": 1
+        },
+        {
+            "question": "What do banking fees encompass?",
+            "options": [
+                "Interest earned on savings accounts.",
+                "Fees paid by banks to customers for using their services.",
+                "Charges imposed by banks for various financial activities and services.",
+                "Fixed monthly payments for maintaining a bank account."
+            ],
+            "correct_option": 2
+        },
+        {
+            "question": "Which statement best describes banking fees?",
+            "options": [
+                "Cash rewards given by banks to new customers.",
+                "Fees collected by customers when using ATMs.",
+                "Charges levied by banks for specific services and transactions.",
+                "Extra funds added to a savings account balance."
+            ],
+            "correct_option": 2
+        }
+
+    ],
+
+    "Identity Theft": [
+    {
+        "question": "What is identity theft?",
+        "options": [
+            "A service offered by banks to protect personal information.",
+            "The act of sharing financial information with friends and family.",
+            "Unauthorized use of someone else's personal information for fraudulent purposes.",
+            "The legal process of changing one's name for privacy reasons."
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "How would you define identity theft?",
+        "options": [
+            "A security feature offered by banks to safeguard personal information.",
+            "The act of disclosing financial details to acquaintances.",
+            "Unauthorized utilization of another person's personal data for fraudulent activities.",
+            "The lawful process of altering one's name for confidentiality."
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What does identity theft refer to?",
+        "options": [
+            "Giving permission to banks to access personal information.",
+            "Sharing financial records with authorized organizations.",
+            "Illegitimate use of someone else's personal data for deceptive motives.",
+            "The process of legally changing one's name."
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "Which statement accurately describes identity theft?",
+        "options": [
+            "A feature offered by banks to enhance personal data security.",
+            "The act of openly sharing financial information with the public.",
+            "Unauthorized use of someone's personal information for fraudulent purposes.",
+            "The legal process of modifying one's name officially."
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "Which of the following is a common method used in identity theft?",
+        "options": [
+            "Sending friendly emails to friends",
+            "Phishing attacks",
+            "Sharing memes on social media",
+            "Sending handwritten letters"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "How can you protect yourself from identity theft?",
+        "options": [
+            "Share personal information on social media",
+            "Use simple passwords",
+            "Regularly monitor financial statements",
+            "Give out your Social Security number to unknown callers"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is phishing in the context of identity theft?",
+        "options": [
+            "Collecting seashells on the beach",
+            "Sending fake emails or messages to trick people into revealing personal information",
+            "A type of fishing done by hackers",
+            "Planting trees near water bodies"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "If you suspect you have been a victim of identity theft, what should you do first?",
+        "options": [
+            "Wait for a few weeks to see if it resolves on its own",
+            "Post about it on social media to raise awareness",
+            "Notify the authorities and your financial institutions",
+            "Ignore it, as it’s likely a false alarm"
+        ],
+        "correct_option": 2
+    }
+],
+    "Risk Management": [
+    {
+        "question": "What is the purpose of insurance in risk management?",
+        "options": [
+            "To guarantee profits from investments",
+            "To eliminate all financial risks",
+            "To transfer the financial impact of certain risks to an insurance company",
+            "To increase the potential returns of investments"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is diversification in the context of investing?",
+        "options": [
+            "Investing in only one type of asset for higher returns",
+            "Investing in multiple assets to reduce risk",
+            "Avoiding all investments to eliminate risk",
+            "Investing only in high-risk assets for potential rewards"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is a common strategy for hedging against currency risk?",
+        "options": [
+            "Investing solely in one currency",
+            "Buying assets denominated in the same currency",
+            "Using financial derivatives like currency futures or options",
+            "Avoiding international investments altogether"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What does 'counterparty risk' refer to in risk management?",
+        "options": [
+            "The risk of losing money in the stock market",
+            "The risk of political instability in foreign countries",
+            "The risk of a financial institution defaulting on obligations",
+            "The risk of investing in high-risk assets"
+        ],
+        "correct_option": 2
+    }
+],
+    "Financial Planning and Goals": [
+    {
+        "question": "What is an emergency fund?",
+        "options": [
+            "A fund to invest in high-risk stocks",
+            "A fund for planned vacations",
+            "A savings fund for unexpected expenses",
+            "A fund for luxury purchases"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is the purpose of setting SMART financial goals?",
+        "options": [
+            "To compare your finances with others",
+            "To have goals that are unrelated to money matters",
+            "To set goals that are specific, measurable, achievable, relevant, and time-bound",
+            "To keep your financial goals secret"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the 'Rule of 72' used for?",
+        "options": [
+            "Estimating the number of months in a year",
+            "Calculating income tax deductions",
+            "Estimating the time it takes for an investment to double at a given interest rate",
+            "Calculating monthly loan payments"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "When creating a budget, what does it mean to differentiate between 'needs' and 'wants'?",
+        "options": [
+            "All expenses are considered needs",
+            "Needs are essential expenses, while wants are non-essential expenses",
+            "Needs and wants are interchangeable terms",
+            "Wants are essential for survival"
+        ],
+        "correct_option": 1
+    }
+]
+
+
+}
