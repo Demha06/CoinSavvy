@@ -1,0 +1,11 @@
+Manual for configuring the language model for execution
+
+Installing libraries from terminal
+Obtaining API Keys (Serp API, OpenAI API)
+Configuring the flask ports for both endpoints
+
+Type "python playground.py" to run language model via Flask
+Run "API.py" to interact with the language model within PyCharm
+
+AHMED DARKYE
+38557207
