@@ -1,0 +1,23 @@
+Executing Django project manual
+
+Install libraries in requirements.txt file
+Configure MySQL with Django ORM
+Migrate models to MySQL
+Obtain Twilio sid and authentication token for WhatsApp
+Configure .env file with appropriate data (Django secret key,twilio data, database configuration data )
+Configure Settings.py
+Configure flask port for Language Model
+
+Type "python manage.py runserver" to run development server for Django(Port 8000)
+Run Ngrok in Terminal on Port 8000
+Copy Forwarding URL from Ngrok to Twilio WhatsApp Settings URL webhook dashboard and save
+Text number on Twilio with secret code to join SandBox on WhatsApp
+
+NB: Quiz code must be commented when running Language Model and vice versa.
+
+AHMED DARKYE
+38557207
+
+
+
+
